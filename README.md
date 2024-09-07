@@ -44,4 +44,4 @@ Quer ajudar a melhorar essa aplicação? Todo mundo é bem-vindo! Você pode:
 * **Imagens:** Adicione algumas imagens para deixar o README mais atrativo.
 * **Detalhes técnicos:** Se quiser, pode incluir mais detalhes técnicos sobre o código, como explicações sobre as funções do JavaScript.
 
-**Lembre-se:** O objetivo de um README é explicar o projeto de forma clara e concisa, mas também de forma divertida e convidativa. Use sua criatividade e mostre para o mundo o seu incrível projeto!
+
