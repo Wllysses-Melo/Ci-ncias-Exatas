@@ -1,4 +1,4 @@
-##  Radioastronomia: Desvendando os mistérios do universo com um clique! 
+##  Radioastronomia: Desvendando os mistérios do universo com um clique! - Imersão Dev com Google Gemini 
 
 **O que essa aplicação faz?**
 
